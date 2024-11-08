@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8218BRMZ-R7
+D Current Sense Amplifiers ZeroDrift BiDirectional Current SenseAmp
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8218.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.LTC3789EUFD_TRPBF :1 ;Switching Voltage Regulators High Efficiency, Synchronous, 4-Switch Buck-Boost Controller
+QFN50P400X500X80-29N-D
+*STM IC
+*NGS
+*PLB 1="SENSE-" 2="ITH" 3="SGND_1" 4="MODE/PLLIN" 5="FREQ" 6="RUN" 7="VINSNS" 8="VOUTSNS" 9="ILIM" 10="IOSENSE+" 11="IOSENSE-" 12="TRIM" 13="SW2" 14="TG2" 15="BOOST2" 16="BG2" 17="EXTVCC" 18="INTVCC" 19="VIN" 20="BG1" 21="PGND" 22="BOOST1" 23="TG1" 24="SW1" 25="PGOOD" 26="VFB" 27="SS" 28="SENSE+" 29="SGND_2"
+*MXP 29
+*DFN LTC3789EUFD_TRPBF
+~!Mouser Part Number (584-LTC3789EUFDTRPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Linear-Technology/LTC3789EUFDTRPBF?qs=hVkxg5c3xu9SnagP15eVeg%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC3789EUFD#TRPBF)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU4/DSASF4000-3463.pdf)
+~!Height (0.8mm)
+~!3D_Model (LTC3789EUFD#TRPBF)
+LTC3789EUFD_TRPBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 

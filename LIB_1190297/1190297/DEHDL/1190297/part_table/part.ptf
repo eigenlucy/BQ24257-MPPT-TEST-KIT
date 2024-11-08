@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1190297'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Phoenix Contact", "1190297" (!) = "", "1190297", "Other", "651-1190297", "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1190297?qs=QNEnbhJQKvaBinyAO%252BdsFA%3D%3D", "PCB terminal block, nominal current: 24 A, rated voltage (III/2): 400 V, nominal cross section: 2.5 mm2, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: LPT 2,5/, pitch: 5 mm, connection method: Lever Push-in connection, mounting: Wave soldering, conductor/PCB connection direction: 0 , color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard", "https://g.componentsearchengine.com/Datasheets/0/15169004.pdf", "23.58 mm"
+END_PART
+
+END.

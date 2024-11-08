@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VN7040ASTR
+D Current Limit SW 1-IN 1-OUT to 34A Automotive 8-Pin SO N T/R
+K
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/5f/e6/42/6c/dc/d9/4c/65/DM00157100.pdf/files/DM00157100.pdf/jcr:content/translations/en.DM00157100.pdf
+$ENDCMP
+#
+#End Doc Library

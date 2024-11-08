@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VN7040AJTR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-09-16:09:11)
+    (mountForm default
+        (footprintRef "SOP50P600X170-16N")
+        (spec "System")
+    )
+)

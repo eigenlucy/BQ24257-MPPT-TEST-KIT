@@ -1,0 +1,16 @@
+.VN7040ASTR :1 ;Current Limit SW 1-IN 1-OUT to 34A Automotive 8-Pin SO N T/R
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="INPUT" 2="SEN" 3="GND" 4="MULTISENSE" 5="VCC_1" 6="OUTPUT_1" 7="OUTPUT_2" 8="VCC_2"
+*MXP 8
+*DFN VN7040ASTR
+~!Mouser Part Number (511-VN7040ASTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN7040ASTR?qs=N2Tevpb%252BvoafXfmnB0CY5g%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (VN7040ASTR)
+~!Link Datasheet (https://www.st.com/content/ccc/resource/technical/document/datasheet/5f/e6/42/6c/dc/d9/4c/65/DM00157100.pdf/files/DM00157100.pdf/jcr:content/translations/en.DM00157100.pdf)
+~!Height (1.75mm)
+~!3D_Model (VN7040ASTR)
+VN7040ASTR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

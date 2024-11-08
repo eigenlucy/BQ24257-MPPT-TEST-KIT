@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTC3789EUFD#TRPBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LTC3789EUFD#TRPBF" (!) = "", "QFN50P400X500X80-29N-D", "Quad Flat No-Lead", "584-LTC3789EUFDTRPBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Linear-Technology/LTC3789EUFDTRPBF?qs=hVkxg5c3xu9SnagP15eVeg%3D%3D", "Switching Voltage Regulators High Efficiency, Synchronous, 4-Switch Buck-Boost Controller", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU4/DSASF4000-3463.pdf", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=VN7040ASTR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-12-09 14:07:22
+Downloaded=2024-10-24 21:01:36
+3D=Y

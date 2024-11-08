@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LTC1982ES6#TRMPBF
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=3.1
+Released=2017-02-25 07:28:04
+Downloaded=2024-11-07 19:54:17
+3D=Y

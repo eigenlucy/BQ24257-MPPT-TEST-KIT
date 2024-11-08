@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTC3113EDHD#TRPBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LTC3113EDHD#TRPBF" (!) = "", "SON50P400X500X80-17N-D", "Small Outline No-lead", "584-LTC3113EDHDTRPBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC3113EDHDTRPBF?qs=hVkxg5c3xu%2Fb1aChqzfx9w%3D%3D", "Conv DC-DC 1.8V to 5.5V Non-Inv/Inv/Step Up/Step Down Single-Out 1.8V to 5.5V 3A 16-Pin DFN EP T/R", "https://www.analog.com/media/en/technical-documentation/data-sheets/3113f.pdf", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,160 @@
+
+(EDIF
+  (rename &VN7040ASTR "VN7040ASTR")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2024 10 24 21 01 36)
+      (dataOrigin "1032486/1037340/2.50/8/3/Integrated Circuit")
+      (program "SamacSys ECAD Model VN7040ASTR"
+        (version "1.1"))))
+  (library
+  (rename &VN7040ASTR "VN7040ASTR")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &VN7040ASTR "VN7040ASTR")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "IC")
+          (property (rename PACKAGENAME "PackageName") (string "VN7040ASTR"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "SOIC127P600X175-8N"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "511-VN7040ASTR"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN7040ASTR?qs=N2Tevpb%252BvoafXfmnB0CY5g%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "STMicroelectronics"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "VN7040ASTR"))
+          (property (rename &Description "Description") (string "Current Limit SW 1-IN 1-OUT to 34A Automotive 8-Pin SO N T/R"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://www.st.com/content/ccc/resource/technical/document/datasheet/5f/e6/42/6c/dc/d9/4c/65/DM00157100.pdf/files/DM00157100.pdf/jcr:content/translations/en.DM00157100.pdf"))
+          (property (rename &Height "Height") (string "1.75 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "VN7040ASTR"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &INPUT "INPUT")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &SEN "SEN")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &GND "GND")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &MULTISENSE "MULTISENSE")
+            (designator "4")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &VCC_1 "VCC_1")
+            (designator "5")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (port
+            (rename &OUTPUT_1 "OUTPUT_1")
+            (designator "6")
+            (property (rename ORDER "Order") (string "5") (owner "OrCAD"))
+          )
+          (port
+            (rename &OUTPUT_2 "OUTPUT_2")
+            (designator "7")
+            (property (rename ORDER "Order") (string "6") (owner "OrCAD"))
+          )
+          (port
+            (rename &VCC_2 "VCC_2")
+            (designator "8")
+            (property (rename ORDER "Order") (string "7") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &INPUT (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &SEN (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -200) (pt 0 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -200))))
+            )
+            (portImplementation
+              (name &GND (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -300) (pt 0 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -300))))
+            )
+            (portImplementation
+              (name &MULTISENSE (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -400) (pt 0 -400))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -400))))
+            )
+            (portImplementation
+              (name &VCC_2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1200 -100) (pt 1400 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 1400 -100))))
+            )
+            (portImplementation
+              (name &OUTPUT_2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1200 -200) (pt 1400 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt 1400 -200))))
+            )
+            (portImplementation
+              (name &OUTPUT_1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1200 -300) (pt 1400 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt 1400 -300))))
+            )
+            (portImplementation
+              (name &VCC_1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 1200 -400) (pt 1400 -400))))
+              (connectLocation (figure GRAPHIC (dot (pt 1400 -400))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 1200 0)
+                  (pt 1200 -500)
+                  (pt 0 -500)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 1250 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 1250 30))))
+          )
+        )
+      )
+    )
+  )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VN7040AJTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "VN7040AJTR" (!) = "", "SOP50P600X170-16N", "Small Outline Packages", "511-VN7040AJTR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN7040AJTR?qs=pZIKbki37prK%252Bd3HC1Q5kg%3D%3D", "Power Switch ICs - Power Distribution High-side driver with MultiSense analog feedback for automotive applications", "https://componentsearchengine.com/Datasheets/1/VN7040AJTR.pdf", "1.7 mm"
+END_PART
+
+END.

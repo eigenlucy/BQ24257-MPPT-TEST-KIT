@@ -1,0 +1,16 @@
+.LTC3113EDHD_TRPBF :1 ;Conv DC-DC 1.8V to 5.5V Non-Inv/Inv/Step Up/Step Down Single-Out 1.8V to 5.5V 3A 16-Pin DFN EP T/R
+SON50P400X500X80-17N-D
+*STM IC
+*NGS
+*PLB 1="VOUT_1" 2="VOUT_2" 3="VIN_1" 4="VIN_2" 5="VIN_3" 6="SGND" 7="BURST" 8="RT" 9="VC" 10="FB" 11="RUN" 12="SW1_1" 13="SW1_2" 14="SW1_3" 15="SW2_1" 16="SW2_2" 17="EPAD"
+*MXP 17
+*DFN LTC3113EDHD_TRPBF
+~!Mouser Part Number (584-LTC3113EDHDTRPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC3113EDHDTRPBF?qs=hVkxg5c3xu%2Fb1aChqzfx9w%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC3113EDHD#TRPBF)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/3113f.pdf)
+~!Height (0.8mm)
+~!3D_Model (LTC3113EDHD#TRPBF)
+LTC3113EDHD_TRPBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

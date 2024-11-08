@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VN7040ASTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "VN7040ASTR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "511-VN7040ASTR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN7040ASTR?qs=N2Tevpb%252BvoafXfmnB0CY5g%3D%3D", "Current Limit SW 1-IN 1-OUT to 34A Automotive 8-Pin SO N T/R", "https://www.st.com/content/ccc/resource/technical/document/datasheet/5f/e6/42/6c/dc/d9/4c/65/DM00157100.pdf/files/DM00157100.pdf/jcr:content/translations/en.DM00157100.pdf", "1.75 mm"
+END_PART
+
+END.

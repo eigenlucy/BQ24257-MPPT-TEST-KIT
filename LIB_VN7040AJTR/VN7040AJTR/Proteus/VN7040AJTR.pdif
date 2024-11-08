@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "VN7040AJTR"
+   (description "Power Switch ICs - Power Distribution High-side driver with MultiSense analog feedback for automotive applications")
+   (family "ANA")
+   (package "SOP50P600X170-16N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/VN7040AJTR.pdf")
+   (attribute "Geometry.Height" "1.7mm")
+   (attribute "Mouser Part Number" "511-VN7040AJTR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN7040AJTR?qs=pZIKbki37prK%252Bd3HC1Q5kg%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "VN7040AJTR")
+   (gate
+    (symbol "VN7040AJTR")
+    (pin "INPUT" 1 PS)
+    (pin "$FAULTRS_T$" 2 PS)
+    (pin "SEN" 3 PS)
+    (pin "GND" 4 PS)
+    (pin "SEL0" 5 PS)
+    (pin "SEL1" 6 PS)
+    (pin "MULTISENSE" 7 PS)
+    (pin "N.C._1" 8 PS)
+    (pin "OUTPU_T_4" 16 PS)
+    (pin "OUTPU_T_3" 15 PS)
+    (pin "OUTPU_T_2" 14 PS)
+    (pin "OUTPU_T_1" 13 PS)
+    (pin "N.C._5" 12 PS)
+    (pin "N.C._4" 11 PS)
+    (pin "N.C._3" 10 PS)
+    (pin "N.C._2" 9 PS)
+   )
+  )
+  (symbol "VN7040AJTR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP50P600X170-16N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.7 2.7)
+      (pt 3.7 2.7)
+      (pt 3.7 -2.7)
+      (pt -3.7 -2.7)
+      (pt -3.7 2.7))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.95 2.45)
+      (pt 1.95 2.45)
+      (pt 1.95 -2.45)
+      (pt -1.95 -2.45)
+      (pt -1.95 2.45))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.95 1.95)
+      (pt -1.45 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 2.45)
+      (pt 1.6 2.45)
+      (pt 1.6 -2.45)
+      (pt -1.6 -2.45)
+      (pt -1.6 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.45 2.25)
+      (pt -1.95 2.25))))
+   (leg 1 (pt -2.7 1.75) (padstack 0))
+   (leg 2 (pt -2.7 1.25) (padstack 0))
+   (leg 3 (pt -2.7 0.75) (padstack 0))
+   (leg 4 (pt -2.7 0.25) (padstack 0))
+   (leg 5 (pt -2.7 -0.25) (padstack 0))
+   (leg 6 (pt -2.7 -0.75) (padstack 0))
+   (leg 7 (pt -2.7 -1.25) (padstack 0))
+   (leg 8 (pt -2.7 -1.75) (padstack 0))
+   (leg 9 (pt 2.7 -1.75) (padstack 0))
+   (leg 10 (pt 2.7 -1.25) (padstack 0))
+   (leg 11 (pt 2.7 -0.75) (padstack 0))
+   (leg 12 (pt 2.7 -0.25) (padstack 0))
+   (leg 13 (pt 2.7 0.25) (padstack 0))
+   (leg 14 (pt 2.7 0.75) (padstack 0))
+   (leg 15 (pt 2.7 1.25) (padstack 0))
+   (leg 16 (pt 2.7 1.75) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.3 1.5 0 0 0))
+   )
+   (model "VN7040AJTR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

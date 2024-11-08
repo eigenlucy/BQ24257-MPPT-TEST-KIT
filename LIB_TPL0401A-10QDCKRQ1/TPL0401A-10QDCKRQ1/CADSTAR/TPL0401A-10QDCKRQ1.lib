@@ -1,0 +1,16 @@
+.TPL0401A-10QDCKRQ1 :1 ;Automotive 128-Taps Single-Channel Digital Potentiometer With I2C Interface
+SOT65P210X110-6N
+*STM IC
+*NGS
+*PLB 1="VDD" 2="GND" 3="SCL" 4="SDA" 5="W" 6="H"
+*MXP 6
+*DFN TPL0401A-10QDCKRQ1
+~!Mouser Part Number (595-PL0401A10QDCKRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPL0401A-10QDCKRQ1?qs=34RfhUjJmKcWn7b6vRygjg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPL0401A-10QDCKRQ1)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tpl0401a-10-q1)
+~!Height (1.1mm)
+~!3D_Model (TPL0401A-10QDCKRQ1)
+TPL0401A-10QDCKRQ1
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

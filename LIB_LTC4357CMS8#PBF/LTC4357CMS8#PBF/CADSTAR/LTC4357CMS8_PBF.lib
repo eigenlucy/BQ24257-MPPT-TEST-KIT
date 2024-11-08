@@ -1,0 +1,16 @@
+.LTC4357CMS8_PBF :1 ;Hot Swap Controller 1-CH 80V N-Channel Positive High Voltage Automotive 8-Pin MSOP Tube
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="IN" 2="NC_1" 3="NC_2" 4="GATE" 5="GND" 6="NC_3" 7="VDD" 8="OUT"
+*MXP 8
+*DFN LTC4357CMS8_PBF
+~!Mouser Part Number (584-LTC4357CMS8#PBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC4357CMS8PBF?qs=hVkxg5c3xu%252BQOMvU8ilEog%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC4357CMS8#PBF)
+~!Link Datasheet (https://www.arrow.com/en/products/ltc4357cms8pbf/analog-devices)
+~!Height (1.1mm)
+~!3D_Model (LTC4357CMS8#PBF)
+LTC4357CMS8_PBF
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

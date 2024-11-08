@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPL0401A-10QDCKRQ1
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2019-10-14 09:29:48
+Downloaded=2024-10-21 20:36:31
+3D=Y

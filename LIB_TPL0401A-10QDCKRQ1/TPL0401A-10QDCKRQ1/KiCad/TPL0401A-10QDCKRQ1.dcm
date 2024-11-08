@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPL0401A-10QDCKRQ1
+D Automotive 128-Taps Single-Channel Digital Potentiometer With I2C Interface
+K
+F http://www.ti.com/lit/gpn/tpl0401a-10-q1
+$ENDCMP
+#
+#End Doc Library

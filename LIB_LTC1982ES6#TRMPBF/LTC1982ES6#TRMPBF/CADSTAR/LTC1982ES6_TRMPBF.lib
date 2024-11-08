@@ -1,0 +1,16 @@
+.LTC1982ES6_TRMPBF :1 ;Linear Technology LTC1982ES6#TRMPBF, Dual Isolated Gate Driver,, 1.8  5 V, High Side, 6-Pin SOT-23
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="'SHDN 1'" 2="GND" 3="'SHDN 2'" 4="GATE 2" 5="GATE 1" 6="VCC"
+*MXP 6
+*DFN LTC1982ES6_TRMPBF
+~!Mouser Part Number (584-LTC1982ES6TRMPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Linear-Technology/LTC1982ES6TRMPBF?qs=hVkxg5c3xu8mWM6qoWHQmQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC1982ES6#TRMPBF)
+~!Link Datasheet (-)
+~!Height (1.45mm)
+~!3D_Model (LTC1982ES6#TRMPBF)
+LTC1982ES6_TRMPBF
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

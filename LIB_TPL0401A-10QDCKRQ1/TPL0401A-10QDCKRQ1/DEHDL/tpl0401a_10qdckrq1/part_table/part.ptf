@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPL0401A_10QDCKRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPL0401A-10QDCKRQ1" (!) = "", "SOT65P210X110-6N", "SOT23 (6-Pin)", "595-PL0401A10QDCKRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPL0401A-10QDCKRQ1?qs=34RfhUjJmKcWn7b6vRygjg%3D%3D", "Automotive 128-Taps Single-Channel Digital Potentiometer With I2C Interface", "http://www.ti.com/lit/gpn/tpl0401a-10-q1", "1.1 mm"
+END_PART
+
+END.

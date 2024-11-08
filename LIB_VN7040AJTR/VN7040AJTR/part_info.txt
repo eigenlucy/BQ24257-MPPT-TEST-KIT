@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=VN7040AJTR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2020-04-09 16:09:11
+Downloaded=2024-10-24 20:52:45
+3D=Y

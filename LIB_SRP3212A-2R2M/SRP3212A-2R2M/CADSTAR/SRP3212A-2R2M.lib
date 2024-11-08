@@ -1,0 +1,16 @@
+.SRP3212A-2R2M :1 ;Ind,3.2x2.5x1mm,2.2uH+/-20%,4A,shd
+INDC3225X120N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRP3212A-2R2M
+~!Mouser Part Number (652-SRP3212A-2R2M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRP3212A-2R2M?qs=t7xnP681wgXn6xyeAWQUgg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRP3212A-2R2M)
+~!Link Datasheet (https://www.bourns.com/docs/product-datasheets/srp3212.pdf)
+~!Height (1.2mm)
+~!3D_Model (SRP3212A-2R2M)
+SRP3212A-2R2M
+1.1!U 2.1!U 

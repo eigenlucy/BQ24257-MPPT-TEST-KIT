@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD8218BRMZ-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.4
+Released=2022-05-16 06:03:29
+Downloaded=2024-11-08 00:08:33
+3D=Y

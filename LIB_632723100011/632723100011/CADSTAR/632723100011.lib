@@ -1,0 +1,17 @@
+.632723100011 :1 ;WURTH ELEKTRONIK - 632723100011 - USB Connector, USB Type C, USB 3.1, Receptacle, 24 Ways, Surface Mount, Through Hole Mount
+"632723100011"
+*STM IC
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=A5 6=A6 7=A7 8=A8 9=A9 10=A10 11=A11 12=A12 13=B1 14=B2 15=B3 16=B4 17=B5 18=B6 19=B7 20=B8 21=B9 22=B10 23=B11 24=B12 25=G1 26=G2 27=MH1 28=MH2 29=MH3 30=MH4 31=MP1 32=MP2
+*PLB 1="GND_1" 2="SSTXP1" 3="SSTXN1" 4="VBUS_1" 5="CC1" 6="DP1" 7="DN1" 8="SBU1" 9="VBUS_2" 10="SSRXN2" 11="SSRXP2" 12="GND_2" 13="GND_3" 14="SSTXP2" 15="SSTXN2" 16="VBUS_3" 17="CC2" 18="DP2" 19="DN2" 20="SBU2" 21="VBUS_4" 22="SSRXN1" 23="SSRXP1" 24="GND_4" 25="GND_5" 26="GND_6" 27="MH1" 28="MH2" 29="MH3" 30="MH4" 31="MP1" 32="MP2"
+*MXP 32
+*DFN 632723100011
+~!Mouser Part Number (710-632723100011)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/632723100011?qs=NK6InXoXhq4o62C9ULXLjQ%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (632723100011)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/632723100011.pdf)
+~!Height (3.11mm)
+~!3D_Model (632723100011)
+"632723100011"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 

@@ -1,0 +1,16 @@
+.VN7040AJTR :1 ;Power Switch ICs - Power Distribution High-side driver with MultiSense analog feedback for automotive applications
+SOP50P600X170-16N
+*STM IC
+*NGS
+*PLB 1="INPUT" 2="'FAULTRS T'" 3="SEN" 4="GND" 5="SEL0" 6="SEL1" 7="MULTISENSE" 8="N.C._1" 9="N.C._2" 10="N.C._3" 11="N.C._4" 12="N.C._5" 13="OUTPU T_1" 14="OUTPU T_2" 15="OUTPU T_3" 16="OUTPU T_4"
+*MXP 16
+*DFN VN7040AJTR
+~!Mouser Part Number (511-VN7040AJTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/VN7040AJTR?qs=pZIKbki37prK%252Bd3HC1Q5kg%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (VN7040AJTR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/VN7040AJTR.pdf)
+~!Height (1.7mm)
+~!3D_Model (VN7040AJTR)
+VN7040AJTR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

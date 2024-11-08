@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74438324010'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "74438324010" (!) = "", "74438324010", "Other", "710-74438324010", "https://www.mouser.com/Search/Refine.aspx?Keyword=710-74438324010", "WE-MAPI SMD Shielded Power Inductor, 2512, 1uH", "https://componentsearchengine.com/Datasheets/1/74438324010.pdf", "1.2 mm"
+END_PART
+
+END.

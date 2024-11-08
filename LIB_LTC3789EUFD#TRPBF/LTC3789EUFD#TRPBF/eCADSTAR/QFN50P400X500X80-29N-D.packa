@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LTC3789EUFD_TRPBF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-01-20-11:07:55)
+    (mountForm default
+        (footprintRef "QFN50P400X500X80-29N-D")
+        (spec "System")
+    )
+)

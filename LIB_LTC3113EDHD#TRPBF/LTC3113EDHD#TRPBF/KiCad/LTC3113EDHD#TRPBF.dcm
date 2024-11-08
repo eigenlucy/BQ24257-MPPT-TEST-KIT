@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC3113EDHD#TRPBF
+D Conv DC-DC 1.8V to 5.5V Non-Inv/Inv/Step Up/Step Down Single-Out 1.8V to 5.5V 3A 16-Pin DFN EP T/R
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3113f.pdf
+$ENDCMP
+#
+#End Doc Library
