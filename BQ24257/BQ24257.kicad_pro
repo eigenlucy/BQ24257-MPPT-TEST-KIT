@@ -58,7 +58,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_near_hole|60400000|123800000|838e4eaa-bb8a-4a82-bf33-a9d712577d95|d5b664a0-062a-4ad1-83b6-0d65adc8b43d",
+        "hole_near_hole|75225000|109650000|1ba3968b-e6d9-4a92-8b66-eae3002d8a07|46f74b9c-ff0b-4f4a-97f5-10241b77a715"
+      ],
       "meta": {
         "version": 2
       },
@@ -491,8 +494,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "BQ24257.net",
-      "plot": "",
-      "pos_files": "",
+      "plot": "FabOuts/",
+      "pos_files": "FabOuts/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
