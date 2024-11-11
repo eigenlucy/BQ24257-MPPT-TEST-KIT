@@ -427,7 +427,7 @@
 		(descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
 		(tags "capacitor 0603 C0603")
 		(property "Reference" "C_VHS1"
-			(at -0.2 1.2 360)
+			(at -0.2 1.2 0)
 			(layer "F.SilkS")
 			(uuid "850bdc47-aa75-49a7-8642-19ba15ec3314")
 			(effects
@@ -438,7 +438,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 1.44 -1.4 360)
+			(at 1.44 -1.4 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b4ae3129-e685-4946-b370-0578c4a8f579")
@@ -450,7 +450,7 @@
 			)
 		)
 		(property "Footprint" "PCM_4ms_Capacitor:C_0603"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dc8dd8c9-c002-4a66-b1f7-42298d45e249")
@@ -462,7 +462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2701e30c-589c-4d05-b38d-abd08939a322")
@@ -474,7 +474,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4d333b8e-a7b5-49c3-9237-53b5b5ff818c")
